@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: Testing site
 ---
 
 Classes teach you all about advanced topics within CS, from operating systems
@@ -19,6 +19,7 @@ impossibly complex.
 Read about the [motivation behind this class](/about/).
 
 {% comment %}
+
 # Registration
 
 Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
@@ -60,25 +61,25 @@ YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57
 We've also shared this class beyond MIT in the hopes that others may
 benefit from these resources. You can find posts and discussion on
 
- - [Hacker News](https://news.ycombinator.com/item?id=22226380)
- - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
- - [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
- - [/r/programming](https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/)
- - [Twitter](https://twitter.com/jonhoo/status/1224383452591509507)
- - [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+-   [Hacker News](https://news.ycombinator.com/item?id=22226380)
+-   [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
+-   [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
+-   [/r/programming](https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/)
+-   [Twitter](https://twitter.com/jonhoo/status/1224383452591509507)
+-   [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
 # Translations
 
-- [Chinese (Simplified)](https://missing-semester-cn.github.io/)
-- [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
-- [Japanese](https://missing-semester-jp.github.io/)
-- [Korean](https://missing-semester-kr.github.io/)
-- [Portuguese](https://missing-semester-pt.github.io/)
-- [Russian](https://missing-semester-rus.github.io/)
-- [Serbian](https://netboxify.com/missing-semester/)
-- [Spanish](https://missing-semester-esp.github.io/)
-- [Turkish](https://missing-semester-tr.github.io/)
-- [Vietnamese](https://missing-semester-vn.github.io/)
+-   [Chinese (Simplified)](https://missing-semester-cn.github.io/)
+-   [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
+-   [Japanese](https://missing-semester-jp.github.io/)
+-   [Korean](https://missing-semester-kr.github.io/)
+-   [Portuguese](https://missing-semester-pt.github.io/)
+-   [Russian](https://missing-semester-rus.github.io/)
+-   [Serbian](https://netboxify.com/missing-semester/)
+-   [Spanish](https://missing-semester-esp.github.io/)
+-   [Turkish](https://missing-semester-tr.github.io/)
+-   [Vietnamese](https://missing-semester-vn.github.io/)
 
 Note: these are external links to community translations. We have not vetted
 them.
